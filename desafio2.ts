@@ -24,13 +24,13 @@ let pessoa2: Humano = {
     profissao: Trabalho.Professora
 };
 
-let Pessoa3: Humano = {
+let pessoa3: Humano = {
     nome: 'francisca',
     idade: 32,
     profissao: Trabalho.Atriz
 };
 
-let Pessoa4: Humano = {
+let pessoa4: Humano = {
     nome: 'adolfo',
     idade: 19,
     profissao: Trabalho.Engenherio
