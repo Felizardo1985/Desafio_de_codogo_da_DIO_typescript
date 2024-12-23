@@ -12,7 +12,7 @@ type Humano = {
     profissao: Trabalho
 }
 
-let Pessoa1: Humano = {
+let pessoa1: Humano = {
     nome: 'paulo ricardo',
     idade: 29,
     profissao: Trabalho.Padeiro
